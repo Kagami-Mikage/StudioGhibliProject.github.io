@@ -13,7 +13,7 @@ HTML5/CSS Project for 'CGS 3853 - Web Systems for IT' @ the University of South 
   1. Headings Hierarchy: Ensure headings follow a logical order without skipping levels.
   2. Semantic Elements: Use appropriate HTML5 semantic elements (e.g., `<header>`, `<main>`, `<footer>`).
 ### WAI-ARIA
-  1. Roles: Add ARIA roles only when necessary (e.g., for <div> and <span> elements).
+  1. Roles: Add ARIA roles only when necessary (e.g., for `<div>` and `<span>` elements).
 ### Color Contrast
   1. Contrast Ratio: Use the WebAIM Contrast Checker to ensure text meets WCAG AA and AAA contrast ratios.
 ### Color Blindness
